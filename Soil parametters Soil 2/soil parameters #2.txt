@@ -11,4 +11,4 @@ TDS- 1280
 
 Hardware 
 rq19n9686 - Calibrated
-rq08n96E6 -
+rq08n96E6 - Calibrated

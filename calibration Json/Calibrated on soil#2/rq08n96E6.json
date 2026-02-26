@@ -1,0 +1,17 @@
+{
+  "temp": 0.0,
+  "moisture": 0.0,
+  "ph": 0.4,
+  "ec": 2.564103,
+  "ec_temp_coeff": 0.0,
+  "salinity_coeff": 3.102929,
+  "tds_coeff": 3.265723,
+  "fert_coeff": 0.104958,
+  "n_coeff": 1.923385,
+  "p_coeff": 0.02921,
+  "k_coeff": 0.357576,
+  "fert_bias": 0.0,
+  "n_bias": 0.0,
+  "p_bias": 0.0,
+  "k_bias": 0.0
+}
